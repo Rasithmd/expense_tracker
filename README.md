@@ -50,8 +50,9 @@ Data Persistence: Choose and implement a suitable database solution for offline 
   * Add/Edit new category
   * Swipe to delete the expense
   * Custom notification (Monthly remainder)
-  * Posibly expanding web version 
+  * webify the experience (exapnd app in web version)
   * Google Auth
+  * One time vs recurring (Youtube subscription or prime subscription)
 
 ### Contributing
 We welcome contributions to this project! Feel free to fork the repository, make changes, and submit pull requests.
