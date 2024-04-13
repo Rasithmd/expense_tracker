@@ -40,14 +40,20 @@ Use code with caution.
 ```
 
 ## Customization
-
 Categories: Modify or add new expense categories to suit your needs.
 Data Persistence: Choose and implement a suitable database solution for offline support (consider firebase for storage).
 
-### Contributing
 
+## Future Enhancements
+  * Description field in add new expense
+  * Location picker for business type eg (restaruant,shop, etc)
+  * Add/Edit new category
+  * Swipe to delete the expense
+  * Custom notification (Monthly remainder)
+  * Posibly expanding web version 
+  * Google Auth
+
+### Contributing
 We welcome contributions to this project! Feel free to fork the repository, make changes, and submit pull requests.
 
-## Disclaimer
-
-This is a basic outline. You'll need to replace placeholders like your-github-repository.git with your actual repository details. The specific implementation of features like offline support and data export will require additional code and configuration based on your chosen approach.
+  
