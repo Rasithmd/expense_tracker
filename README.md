@@ -20,7 +20,6 @@ Clone the Repository:
 Bash
 ```
 git clone https://github.com/Rasithmd/expense_tracker.git
-Use code with caution.
 ```
  ## Install Dependencies:
 
@@ -28,7 +27,6 @@ Bash
 ```
 cd expense_tracker
 flutter pub get
-Use code with caution.
 ```
 Run the App:
 
@@ -36,7 +34,6 @@ Android:
 Bash
 ```
 flutter run
-Use code with caution.
 ```
 
 ## Customization
